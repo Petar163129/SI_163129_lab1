@@ -1,0 +1,6 @@
+$ git log
+commit 841c75978821ee7b4a4119e9b43ba1e8b0799665 (HEAD -> logs, origin/master, master)
+Author: Petar Nastevski <petar-nastevski@hotmail.com>
+Date:   Tue Apr 16 15:39:26 2019 +0200
+
+    initial commit
